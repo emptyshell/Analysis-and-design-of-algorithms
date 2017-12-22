@@ -1,0 +1,12 @@
+qsort
+mergesort
+preferat creat de noi sau cel mai des folosit
+crescator
+10
+100
+1000
+10000
+100000
+cazul cel mai nefavorabil
+cazul cel mai favorabil
+cazul mediu
